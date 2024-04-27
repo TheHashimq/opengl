@@ -4,6 +4,7 @@
 - glfw3 
 - [glad](https://glad.dav1d.de/)
 - [stbi image loader](https://github.com/nothings/stb/blob/master/stb_image.h)
+- glm (opengl mathematics)
 ## Install glfw3
 #### for x11
 ```bash
